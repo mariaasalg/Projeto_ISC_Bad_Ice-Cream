@@ -1,6 +1,6 @@
 ## Projeto ISC - Bad Ice-Cream 🍧
 
-Desenvolvido por @carol--ac, @JustMaduh25 e @mariaasalg para a disciplina de Introdução aos Sistemas Computacionais
+Desenvolvido por [@carol--ac](https://github.com/caroll-ac) , [@JustMaduh25](https://github.com/JustMaduh25) e [@mariaasalg](https://github.com/mariaasalg) para a disciplina de Introdução aos Sistemas Computacionais
 
 ## Como jogar 🧊
 - Abra o arquivo "badicecream10" pelo RARS (Rars16_Custom1)
