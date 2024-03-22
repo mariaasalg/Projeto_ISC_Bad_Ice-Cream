@@ -3,7 +3,7 @@
 Desenvolvido por [@carol--ac](https://github.com/caroll-ac) , [@JustMaduh25](https://github.com/JustMaduh25) e [@mariaasalg](https://github.com/mariaasalg) para a disciplina de Introdução aos Sistemas Computacionais
 
 ## Como jogar 🧊
-- Abra o arquivo "badicecream10" pelo RARS (Rars16_Custom1)
+- Abra o arquivo "badicecream10.s" pelo RARS (Rars16_Custom1)
 - Aperte na aba superior o ícone de ferramentas para montar o jogo.
 - Clique em tools em abra o "Bitmap Display" e o "Keyboard and Display MMIO Simulator". Em ambos selecione "Connect to program"
 
