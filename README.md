@@ -1,6 +1,6 @@
 ## Projeto ISC - Bad Ice-Cream 🍧
 
-Desenvolvido por Ana Caroline Evangelista, Maria Eduarda Rocha e Maria Salgado para a disciplina de Introdução aos Sistemas Computacionais
+Desenvolvido por @carol--ac, @JustMaduh25 e @mariaasalg para a disciplina de Introdução aos Sistemas Computacionais
 
 ## Como jogar 🧊
 - Abra o arquivo "badicecream10" pelo RARS (Rars16_Custom1)
